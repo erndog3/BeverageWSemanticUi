@@ -1,0 +1,7 @@
+.jumbotron {
+  min-height: 400px;
+  padding-top: 75px;
+  background-image: url('/images/clear_glass.jpeg');
+  background-size: cover;
+  color: #CC8E69;
+}
